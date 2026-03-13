@@ -1,6 +1,6 @@
 # Lively Wallpaper Playlist
 
-A lightweight utility that automatically cycles through your saved Lively wallpapers and assigns random wallpapers to each monitor at a configurable interval.
+A lightweight utility that automatically cycles through your saved Lively wallpapers and assigns random wallpapers to each monitor at a configurable interval. It is currently in a very unstable and buggy alpha release.
 
 ## 📥 Download
 
