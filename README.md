@@ -77,3 +77,4 @@ Settings:
 - **Multi-folder support** – Pull wallpapers from multiple directories.
 - **Integration with Lively playlists** – Detect Lively’s internal playlists and work with them.
 - **Logging & error reporting** – Log failed wallpaper changes or invalid monitor numbers.
+- **Weather based wallpaper mode** - Wallpaper set by catergory based on weather and time. (User defines wallpapers for each catergory)
