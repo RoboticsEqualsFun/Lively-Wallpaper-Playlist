@@ -14,7 +14,7 @@ Download the latest installer from the **[Releases page](https://github.com/foll
 ## 🚀 Installation
 
 1. Download the installer.
-2. Run the installer and follow the instructions. (Note: Windows SmartScreen may warn that the app is from an unknown publisher. Click **More info → Run anyway** to continue. Don't worry it's not a virus (Check the source code if your scared(I would))
+2. Run the installer and follow the instructions. (Note: Windows SmartScreen may warn that the app is from an unknown publisher. Click **More info → Run anyway** to continue. Don't worry it's not a virus (Check the source code if your scared (I would))
 3. If Lively cannot be found, manually locate `Lively.exe`
    Microsoft Store installs are usually located in:
    `%LocalAppData%\\Packages\\12030rocksdanister.LivelyWallpaper_97hta09mmv6hy\\LocalCache\\Local`
